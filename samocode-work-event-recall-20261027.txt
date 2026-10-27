@@ -1,0 +1,6 @@
+SAMOCODE Work event proof — RECALL phase
+
+Purpose: trigger the existing read-only ChatGPT Work task through a pull_request.opened event.
+No prior-run identifier or expected recall value is included in this file.
+No production behavior is changed.
+Do not merge or deploy this test pull request.
